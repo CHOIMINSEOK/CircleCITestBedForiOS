@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "66907c80abccad78bccab14b5b93f038"
+build_time: [1550129415, 32492000]
+inputs:
+  "/Users/lf_wannabe/XcodeProjects/CircleCITestBedForiOS/CircleCITestBedForiOS/ViewController.swift": [1550129413, 0]
+  "/Users/lf_wannabe/XcodeProjects/CircleCITestBedForiOS/CircleCITestBedForiOS/AppDelegate.swift": [1550129413, 0]
